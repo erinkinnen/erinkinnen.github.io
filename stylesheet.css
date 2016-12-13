@@ -22,3 +22,7 @@ h1 {
   border-bottom-style: 3px, double, rgb(216,218,190) ;
   box-shadow: 10px 10px 5px rgb(216,218,190);
 }
+
+.experience-detail {
+  font-family: Helvetica, sans-serif;
+  font-size: 50%, overflow: hidden;
