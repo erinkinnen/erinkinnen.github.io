@@ -2,15 +2,12 @@ p {
 color: rgb(216,218,190);
 font-family: Helvetica, sans-serif;
 }
-
-#top {
-  
   
 h1 {
   font-size: 100px;
   font-family: Helvetica-bold, sans-serif;
   color: #2e69a3;
-  bottom-border: line;
+  border-bottom: 5 px;
 }
 
 .section-title {
