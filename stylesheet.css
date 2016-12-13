@@ -8,6 +8,7 @@ h1 {
   font-family: Helvetica-bold, sans-serif;
   color: #2e69a3;
   border-style: solid;
+  border-color: rgb(216,218,190);
   box-shadow: 10px 10px 5px rgb(216,218,190);
   }
 
