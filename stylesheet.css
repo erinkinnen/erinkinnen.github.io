@@ -8,6 +8,7 @@ h1 {
   font-family: Helvetica-bold, sans-serif;
   color: #2e69a3;
   border-style: solid;
+  box-shadow: 10px 10px 5px #888888;
   }
 
 .section-title {
