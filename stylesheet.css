@@ -5,6 +5,7 @@ body {
 p {
 color: rgb(216,218,190);
 font-family: Helvetica, sans-serif;
+background: red;
 }
   
 h1 {
@@ -12,6 +13,7 @@ h1 {
   font-family: Garamond, serif;
   color: #2e69a3;
   border-bottom: 8px, double, rgb(216,218,190) ;
+  background: lightblue;
   /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
   }
 
