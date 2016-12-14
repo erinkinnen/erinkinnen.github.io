@@ -16,6 +16,11 @@ h1 {
   background: lightblue;
   /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
 }
+
+.pic {
+  float: right;
+}
+
 .contact {
   color: #f44b42;
   font-family: Helvetica, sans-serif;
