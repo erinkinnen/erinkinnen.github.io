@@ -30,7 +30,7 @@ background: red;
 
 .pic {
   float: right;
-  width: 294px;
+  /*width: 294px;*/
   padding: 10px 10px 10px 10px;
   transform: rotate(8deg);
   border: 1px solid #BFBFBF;
