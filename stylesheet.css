@@ -2,12 +2,6 @@ body {
   background-color: #f4f8ff;
 }
 
-p {
-color: rgb(216,218,190);
-font-family: Helvetica, sans-serif;
-background: red;
-}
-  
 h1 {
   font-size: 100px;
   font-family: Garamond, serif;
@@ -17,8 +11,10 @@ h1 {
   /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
 }
 
-.pic {
-  float: right;
+p {
+color: rgb(216,218,190);
+font-family: Helvetica, sans-serif;
+background: red;
 }
 
 .contact {
@@ -26,13 +22,25 @@ h1 {
   font-family: Helvetica, sans-serif;
   font-size: 25px;
   text-align: center;
+}  
+
+.pic {
+  float: right;
 }
+
 .section-title {
   font-family: Garamond, serif;
   font-size: 40px;
   color: #2e69a3;
-  border-bottom: 3px, double, rgb(216,218,190) ;
+  border-bottom: 3px, double, rgb(216,218,190);
   /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
+}
+
+.experience-detail {  
+  font-family: Garamond, serif;
+  font-size: 25px;
+  color: #2e69a3;
+  border-bottom: 3px solid rgb(216,218,190);
 }
 
 .lists {
