@@ -31,10 +31,11 @@ background: red;
 .pic {
   float: right;
   width: 294px;
-  padding: 10px 10px 20px 10px;
+  padding: 10px 10px 10px 10px;
+  transform: rotate(8deg);
   border: 1px solid #BFBFBF;
   background-color: white;
-  box-shadow: 10px 10px 5px #aaaaaa;
+  box-shadow: 5px 5px 5px #aaaaaa;
 }
 
 .section-title {
