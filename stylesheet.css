@@ -12,7 +12,7 @@ h1 {
   font-family: Garamond, serif;
   color: #2e69a3;
   border-bottom-style: 3px, double, rgb(216,218,190) ;
-  box-shadow: 10px 10px 5px rgb(216,218,190);
+  /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
   }
 
 .section-title {
@@ -20,7 +20,7 @@ h1 {
   font-size: 40px;
   color: #2e69a3;
   border-bottom-style: 3px, double, rgb(216,218,190) ;
-  box-shadow: 10px 10px 5px rgb(216,218,190);
+  /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
 }
 
 .experience-detail {
