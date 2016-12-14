@@ -65,3 +65,8 @@ background: red;
   font-family: Helvetica, sans-serif;
   font-size: 50%, overflow: hidden;
 }
+
+#title-bottom {
+  position:absolute;
+    bottom:0;
+}
