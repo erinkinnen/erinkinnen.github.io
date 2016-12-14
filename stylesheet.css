@@ -45,6 +45,9 @@ background: red;
   margin: 1px 0px 2px 0px;
   padding: 0px 0px 2px 0px;
   border-bottom: 1px solid rgb(216,218,190);
+  position: absolute;
+    bottom: 0;
+    left: 0;
 }
 
 .experience-detail {  
