@@ -12,7 +12,11 @@ h1 {
   /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
 }
 
-/*p {
+h2 {
+  margin: 10px;
+  text-decoration: underline;
+} 
+ /*p {
 color: rgb(216,218,190);
 font-family: Helvetica, sans-serif;
 background: red;
