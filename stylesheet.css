@@ -41,7 +41,6 @@ background: red;
   font-family: Garamond, serif;
   font-size: 40px;
   color: #2e69a3;
-  background: blue;
   margin: 1px 0px 2px 0px;
   padding: 0px;
   border-bottom: 1px solid rgb(216,218,190);
@@ -51,7 +50,8 @@ background: red;
   font-family: Garamond, serif;
   font-size: 25px;
   color: #2e69a3;
-  
+  padding: 0px;
+  margin: 0px;
 }
 
 .date {
