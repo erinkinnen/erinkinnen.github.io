@@ -52,6 +52,10 @@ background: red;
   border-bottom: 3px solid rgb(216,218,190);
 }
 
+.date {
+  float: right;
+}
+
 .lists {
   font-family: Helvetica, sans-serif;
   font-size: 50%, overflow: hidden;
