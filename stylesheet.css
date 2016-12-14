@@ -11,7 +11,7 @@ h1 {
   font-size: 100px;
   font-family: Garamond, serif;
   color: #2e69a3;
-  border-bottom-style: 8px, double, rgb(216,218,190) ;
+  border-bottom: 8px, double, rgb(216,218,190) ;
   /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
   }
 
@@ -19,7 +19,7 @@ h1 {
   font-family: Garamond, serif;
   font-size: 40px;
   color: #2e69a3;
-  border-bottom-style: 3px, double, rgb(216,218,190) ;
+  border-bottom: 3px, double, rgb(216,218,190) ;
   /*box-shadow: 10px 10px 5px rgb(216,218,190);*/
 }
 
