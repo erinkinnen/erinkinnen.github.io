@@ -60,7 +60,8 @@ background: red;
 
 .job-date-line {
   font-family: Verdana, Geneva, sans-serif;
-  font-size: 15px;
+  font-size: 35px;
+  color: #2e69a3;
 }
 
 .date {
