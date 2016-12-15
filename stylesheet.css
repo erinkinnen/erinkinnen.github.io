@@ -24,6 +24,10 @@ h4 {
   margin: 6px 0px 12px 0px;
 }
 
+div.list {
+  background-color: blue;
+}
+
 /*p {
 color: rgb(216,218,190);
 font-family: Helvetica, sans-serif;
