@@ -16,6 +16,14 @@ h2 {
   margin: 10px;
 } 
 
+h3 {
+  margin: 10px;
+}
+
+h4 {
+  margin: 6px;
+}
+
 /*p {
 color: rgb(216,218,190);
 font-family: Helvetica, sans-serif;
