@@ -49,6 +49,10 @@ p {
   box-shadow: 5px 5px 5px #aaaaaa;
 }
 
+.competencies {
+  text-align: center;
+}
+
 .section-title {
   font-family: Palatino Linotype, Palatino, serif;
   font-size: 40px;
